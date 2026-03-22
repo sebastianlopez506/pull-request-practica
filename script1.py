@@ -1,6 +1,6 @@
 def welcome():
-    print("Beinvenido al programa")
-    print("Developed by Sebastiá López")
+    print("Bienvenido al programa")
+    print("Developed by Sebastián López")
 
 
 welcome()
